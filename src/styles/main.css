@@ -1,0 +1,30 @@
+* {
+    font-family: Arial;
+}
+
+
+.video-game-image {
+    height: 50vh;
+}
+
+.list-font {
+    font-size: large;
+}
+
+.homepage {
+    color: dodgerblue;
+    background-color: lightgray;
+}
+
+.video-game-body {
+    background-color: rgba(0,0,128, 0.3);
+
+}
+
+.reading-body {
+    background-color: rgba(0,128,0,0.3);
+}
+
+.tv-body {
+    background-color: rgba(128,0,0,0.3);
+}
